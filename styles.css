@@ -14,3 +14,24 @@ body{
 .encabezado{
     color: var(--color-texto);
 }
+
+.boton{
+
+}
+
+.encabezado h1{
+    font-size: 2rem;
+}
+
+.subtitulo{
+    opacity: 0.8;
+
+}
+
+
+
+
+
+
+
+
